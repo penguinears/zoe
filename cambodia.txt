@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LIVE-cambodia</title>
+    <style>
+       h2 {
+  color: #1abc9c;
+}
+ h3 {
+  color: #1abc9c;
+}
+      .header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+    </style>
+  </head>
+  <body>
+   
+    <div class="header">
+       <a href="index.html"><-- return home</a>
+      <h1>Cambodia Trip Live Feed</h1>
+      <p>Zoe completes world tour as we speak</p>
+    </div>
+      <br>
+      <br>
+      <h3>
+        This is a live tacking of Zoe as she does a 16 day journety trecking and camping in cambodia In the World Challange 2026!<br><br>
+      </h3>
+       <h2>06/07/2026</h2>
+      <h3>She sets off for her journey going from Newcastle to Manchester airport where she travelled from Istanbul to Bangkok!</h3>
+      <h3>08/07/2026</h3>
+      <h2>She lands in Bangkok</h2>
+  
+    
+      
+      
+      
+      
+
+    
+  </body>
+</html>
